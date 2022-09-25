@@ -1,0 +1,12 @@
+C:\MindMinersRepo\DojoCode4\DojoCodeApp4\bin\Debug\net6.0\DojoCodeApp4.deps.json
+C:\MindMinersRepo\DojoCode4\DojoCodeApp4\bin\Debug\net6.0\DojoCodeApp4.dll
+C:\MindMinersRepo\DojoCode4\DojoCodeApp4\bin\Debug\net6.0\ref\DojoCodeApp4.dll
+C:\MindMinersRepo\DojoCode4\DojoCodeApp4\bin\Debug\net6.0\DojoCodeApp4.pdb
+C:\MindMinersRepo\DojoCode4\DojoCodeApp4\obj\Debug\net6.0\DojoCodeApp4.csproj.AssemblyReference.cache
+C:\MindMinersRepo\DojoCode4\DojoCodeApp4\obj\Debug\net6.0\DojoCodeApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\MindMinersRepo\DojoCode4\DojoCodeApp4\obj\Debug\net6.0\DojoCodeApp4.AssemblyInfoInputs.cache
+C:\MindMinersRepo\DojoCode4\DojoCodeApp4\obj\Debug\net6.0\DojoCodeApp4.AssemblyInfo.cs
+C:\MindMinersRepo\DojoCode4\DojoCodeApp4\obj\Debug\net6.0\DojoCodeApp4.csproj.CoreCompileInputs.cache
+C:\MindMinersRepo\DojoCode4\DojoCodeApp4\obj\Debug\net6.0\DojoCodeApp4.dll
+C:\MindMinersRepo\DojoCode4\DojoCodeApp4\obj\Debug\net6.0\ref\DojoCodeApp4.dll
+C:\MindMinersRepo\DojoCode4\DojoCodeApp4\obj\Debug\net6.0\DojoCodeApp4.pdb

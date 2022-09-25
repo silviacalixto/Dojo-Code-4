@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f15cb396-e34d-42e4-8ab3-e92a3f8a790e": {
+      "ProjectGuid": "f15cb396-e34d-42e4-8ab3-e92a3f8a790e",
+      "DisplayName": "DojoCode4",
+      "ColorIndex": 0
+    },
+    "2e58cd14-a29a-435a-9d3e-c579f8099134": {
+      "ProjectGuid": "2e58cd14-a29a-435a-9d3e-c579f8099134",
+      "DisplayName": "DojoCodeApp4",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
